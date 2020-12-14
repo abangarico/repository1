@@ -1,0 +1,18 @@
+SSN
+CCN
+
+10 Unique SSNs in the Wild
+
+This document contains Social Security Numbers in a number of formats and surrounding text that will generate a policy violation.  The text below will generate 10 unique matches.
+
+1.	The following is my CCN:420 08 3530 .
+2.	The following is my social security number 650220893; let me know if you need anything else.
+3.	The account number you gave me (561-97-2514) seems to be past due.
+4.	Can you check on account #203369293 to look for recent orders?
+5.	Here’s the SSN number,"373182660"
+6.	Not social #722694595, but the other one you gave me.
+7.	The following is my SSN=156658703.
+8.	Can you check on the following social -->627129288<--
+9.	Yes, social and last name is 178526151&Smith.
+10.	Here’s the ssn number, '098.01.8263'
+
